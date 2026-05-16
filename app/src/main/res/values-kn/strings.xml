@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಿಮ್ಮ ಗುರು</string>
+    <string name="default_web_client_id">000000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com</string>
+
+    <string name="login_subtitle">ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಗುರುಗಳಿಗೆ ಮೃದುವಾದ ಮಾರ್ಗದರ್ಶನ.</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="display_name">ಹೆಸರು</string>
+    <string name="sign_in">ಸೈನ್ ಇನ್</string>
+    <string name="sign_in_google">Google ಮೂಲಕ ಸೈನ್ ಇನ್</string>
+    <string name="create_account">ಖಾತೆ ತೆರೆಯಿರಿ</string>
+    <string name="register_title">ನಿಮ್ಮ ಗುರು ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="register_action">ನೋಂದಣಿ</string>
+    <string name="back_to_login">ಸೈನ್ ಇನ್‌ಗೆ ಹಿಂತಿರುಗಿ</string>
+    <string name="hide_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆಮಾಡಿ</string>
+    <string name="show_password">ಪಾಸ್‌ವರ್ಡ್ ತೋರಿಸಿ</string>
+    <string name="error_google_token">Google ಟೋಕನ್ ಬಂದಿಲ್ಲ. Firebase Web client ID ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="error_google_failed">Google ಸೈನ್ ಇನ್ ವಿಫಲವಾಗಿದೆ</string>
+
+    <string name="nav_home">ಮುಖಪುಟ</string>
+    <string name="nav_find_guru">ಗುರು ಹುಡುಕಿ</string>
+    <string name="nav_ai_chat">AI ಸಹಾಯ</string>
+    <string name="nav_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+
+    <string name="student_dashboard_title">ವಿದ್ಯಾರ್ಥಿ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="student_dashboard_body">ಗುರುಗಳನ್ನು ನೋಡಿ, ಸಹಾಯಕರೊಂದಿಗೆ ಚಾಟ್ ಮಾಡಿ, ನಿಧಾನವಾಗಿ ಕಲಿಯಿರಿ.</string>
+    <string name="student_signed_in_as">%1$s ಎಂದು ಸೈನ್ ಇನ್</string>
+    <string name="offline_title">ಆಫ್‌ಲೈನ್ ಸ್ನೇಹಿ</string>
+    <string name="offline_body">Firestore ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಮತ್ತು ಚಾಟ್‌ಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲೂ ಉಳಿಸುತ್ತದೆ ಮತ್ತು ಮತ್ತೆ ಆನ್‌ಲೈನ್ ಆದಾಗ ಸಿಂಕ್ ಮಾಡುತ್ತದೆ.</string>
+
+    <string name="guru_dashboard_title">ಗುರು ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="guru_dashboard_body">ವಿಷಯ, ನಗರ ಮತ್ತು ಅನುಭವವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ; ವಿದ್ಯಾರ್ಥಿಗಳು ನಿಮ್ಮನ್ನು ಸುಲಭವಾಗಿ ಕಂಡುಕೊಳ್ಳುತ್ತಾರೆ.</string>
+    <string name="phone">ಫೋನ್</string>
+    <string name="city">ನಗರ</string>
+    <string name="subjects_hint">ವಿಷಯಗಳು (ಅಲ್ಪವಿರಾಮದಿಂದ ಬೇರ್ಪಡಿಸಿ)</string>
+    <string name="years_experience">ವರ್ಷಗಳ ಅನುಭವ</string>
+    <string name="bio">ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯ</string>
+    <string name="save_profile">ಬೋಧನಾ ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+
+    <string name="guru_search_title">ಗುರು ಹುಡುಕಿ</string>
+    <string name="search_query_label">ಹೆಸರು, ನಗರ ಅಥವಾ ವಿಷಯ ಹುಡುಕಿ</string>
+    <string name="city_filter">ನಗರ ಫಿಲ್ಟರ್</string>
+    <string name="subject_filter">ವಿಷಯ ಫಿಲ್ಟರ್</string>
+    <string name="min_experience_filter">ಕನಿಷ್ಠ ಅನುಭವ ವರ್ಷಗಳು</string>
+    <string name="anonymous_guru">ಸಮುದಾಯ ಗುರು</string>
+    <string name="guru_card_line">%1$s • %2$d ವರ್ಷಗಳ ಅನುಭವ</string>
+    <string name="subjects_label">ವಿಷಯಗಳು: %1$s</string>
+
+    <string name="chat_title">ನಿಮ್ಮ ಸಹಾಯಕ</string>
+    <string name="chat_subtitle">ಇಂಗ್ಲಿಷ್ ಅಥವಾ ಕನ್ನಡದಲ್ಲಿ ಕೇಳಿ. ಉತ್ತರಗಳು ಆಫ್‌ಲೈನ್ ಓದಲು ಉಳಿಯುತ್ತವೆ.</string>
+    <string name="chat_placeholder">ನಿಮ್ಮ ಪ್ರಶ್ನೆ ಬರೆಯಿರಿ</string>
+    <string name="send">ಕಳುಹಿಸಿ</string>
+
+    <string name="settings_title">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="settings_language">ಭಾಷೆ</string>
+    <string name="language_english">English</string>
+    <string name="language_kannada">ಕನ್ನಡ</string>
+    <string name="settings_role">ನಿಮ್ಮ ಪಾತ್ರ</string>
+    <string name="settings_role_body">ಯಾವಾಗ ಬೇಕಾದರೂ ಬದಲಾಯಿಸಿ. ಪ್ರೊಫೈಲ್ ಉಳಿಸಿದ ನಂತರ ಗುರುಗಳು ಹುಡುಕಾಟದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ.</string>
+    <string name="role_student">ವಿದ್ಯಾರ್ಥಿ</string>
+    <string name="role_guru">ಗುರು</string>
+    <string name="settings_notifications">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="settings_notifications_body">ನಿಮ್ಮ ಗುರು ಸಂದೇಶಗಳಿಗಾಗಿ ಎಚ್ಚರಿಕೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="enable_notifications">ಅಧಿಸೂಚನೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="notifications_enabled">ಅಧಿಸೂಚನೆಗಳು ಸಕ್ರಿಯವಾಗಿವೆ</string>
+    <string name="sign_out">ಸೈನ್ ಔಟ್</string>
+    <string name="notification_channel_name">ನಿಮ್ಮ ಗುರು ನವೀಕರಣಗಳು</string>
+</resources>
