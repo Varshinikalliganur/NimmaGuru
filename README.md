@@ -73,7 +73,7 @@ The project follows the **MVVM (Model–View–ViewModel)** architecture:
 1. Clone repository:
 
 ```bash
-https://github.com/Varshinikalliganur/NimmaGuru/new/main?filename=README.md
+https://github.com/Varshinikalliganur/NimmaGuru.git
 ```
 
 2. Open Android Studio
